@@ -1,4 +1,5 @@
-import java.sql.Time;
+package com.weatherapp;
+
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 

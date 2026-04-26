@@ -1,3 +1,5 @@
+package com.weatherapp;
+
 public class WeatherRequest {
     private final String city;
     private final String longitude;

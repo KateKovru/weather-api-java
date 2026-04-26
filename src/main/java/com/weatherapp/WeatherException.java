@@ -1,3 +1,5 @@
+package com.weatherapp;
+
 public class WeatherException extends RuntimeException{
 
 

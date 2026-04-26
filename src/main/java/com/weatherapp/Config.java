@@ -1,3 +1,5 @@
+package com.weatherapp;
+
 public class Config {
 
     public static final int    THREAD_COUNT   = 4;
